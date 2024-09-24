@@ -2,7 +2,7 @@
 
 ### Pycaret Assignment
 
-Model|Link
+Sr.|Model|Link
 -|-|-
 1|Binary Classification|https://colab.research.google.com/drive/1iiO-1ZZvYndccNhxojl5k6OLGaCrO98C#scrollTo=e0OR13McnQCv
 2|Multiclass Classification|https://colab.research.google.com/drive/127DLwGepICkmvlNe-q5GbTzjZdTVT3zC
