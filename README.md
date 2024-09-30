@@ -5,7 +5,7 @@ Explore various AutoGluon implementations on real-world datasets. Below is a col
 
 
 ## 🎥 Video Walkthrough:
-[Watch the YouTube Tutorial]((https://youtu.be/W5IRCsoe_us))
+[Watch the YouTube Tutorial](https://youtu.be/W5IRCsoe_us)
 
 
 
@@ -18,8 +18,8 @@ Explore various AutoGluon implementations on real-world datasets. Below is a col
 | **Multimodal Tabular** | [Link](https://colab.research.google.com/drive/1i1LKVR9Oyaa3tLLsJoBy4k2zNlWpLiGj#scrollTo=ad480e57) |
 | **Multilabel Prediction** | [Link](https://colab.research.google.com/drive/1Lov4-aVDZVLpYs40vVyS7PLMUm8dXvPP#scrollTo=e796708d) |
 | **Training Models with GPU Support** | [Link](https://colab.research.google.com/drive/1RqeDet1QaBn3kHpYPUjK_5OfQh7Lpnad#scrollTo=fb52a296) |
-| **Segment Analysis & Sentence Similarity** | [Link](https://colab.research.google.com/drive/1NweddoM-HD5HPTF8EkbxsduAt6acLFJz#scrollTo=d2535bb3) |
-| **Finetune Foundation Models** | [Link](https://colab.research.google.com/drive/10DVn63Pipg_uMj6RO30m9XHyfqHMYo88#scrollTo=9f79a6f4) |
+| **Segment Analysis & Sentence Similarity** | [Link](https://colab.research.google.com/drive/1OW64w3dSgF7l83UEvh-gWks-NHF-V0lx?usp=sharing) |
+| **Finetune Foundation Models** | [Link](https://colab.research.google.com/drive/1f2RoawvSKbaSzgy6pahf9azAQujBwv00?usp=sharing) |
 | **Named Entity Recognition (NER)** | [Link](https://colab.research.google.com/drive/1lAnkDjxbWk0eT818UwqqosUvDicjn__l#scrollTo=fb74845a) |
 | **Clip Zero Shot** | [Link](https://colab.research.google.com/drive/1GJyxKmOdOUvuW3GEpHSVXo6bkncQgwRW#scrollTo=5c55bd15) |
 | **Image Object Detection** | [Link](https://colab.research.google.com/drive/1rcZ2qtflXvPhpC-9r-AZE1K_9UD7g79A?usp=sharing) |
