@@ -5,7 +5,7 @@ Explore various AutoGluon implementations on real-world datasets. Below is a col
 
 
 ## 🎥 Video Walkthrough:
-[Watch the YouTube Tutorial](https://www.youtube.com)
+[Watch the YouTube Tutorial]((https://youtu.be/W5IRCsoe_us))
 
 
 
