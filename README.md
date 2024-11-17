@@ -63,6 +63,7 @@ This repository contains Colab notebooks showcasing machine learning tasks using
 - **Description**: Train a GNN model using RelBench for relational data predictions.
 - **Steps**: Prepare tabular data, train GNN, and evaluate performance metrics.
 
+---
 
 # 🚀 Data Mining with AutoGluon
 
